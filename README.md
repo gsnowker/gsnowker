@@ -8,4 +8,4 @@
 
 ---
 
-* [LinkedIn](https://www.linkedin.com/in/marcosgbonici) • [Email](marcosgbonici@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/marcosgbonici) • [E-mail](mailto:marcosgbonici@gmail.com) 

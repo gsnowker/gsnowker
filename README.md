@@ -34,12 +34,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidad
 ---
 
 ### 🏆 Projetos em Destaque
-*Confira meus repositórios em destaque logo abaixo!* Eles mostram a aplicação prática dos meus estudos, incluindo:
-* 🚗 **Sistema de Gerenciamento de Veículos:** Aplicação web com CRUD completo, validações lógicas e persistência de dados via `LocalStorage`.
-* 📋 **Gerenciador de Tarefas (To-Do List):** Aplicação interativa focada em manipulação dinâmica do DOM e produtividade.
+
+* 🚗 **Sistema de Gerenciamento de Veículos**
+  * Aplicação web com CRUD completo, validações lógicas e persistência de dados via `LocalStorage`.
+  * 🔗 [Testar Aplicação](https://gsnowker.github.io/Cadastro-de-Carros/) | 💻 [Ver Repositório](https://github.com/gsnowker/Cadastro-de-Carros)
+
+* 📋 **Gerenciador de Tarefas (To-Do List)**
+  * Aplicação interativa focada em manipulação dinâmica do DOM e produtividade.
+  * 🔗 [Testar Aplicação](https://gsnowker.github.io/Lista-de-Tarefas/) | 💻 [Ver Repositório](https://github.com/gsnowker/Lista-de-Tarefas)
 
 ---
-
 
 ### 📫 Vamos nos conectar?
 
@@ -57,6 +61,9 @@ Se você procura um estagiário dedicado, proativo e apaixonado por tecnologia e
 <br>
 
 <div align="center">
+
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gsnowker&theme=tokyonight" />
+
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsnowker&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
+
+</div> 
